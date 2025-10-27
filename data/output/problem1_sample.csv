@@ -1,0 +1,11 @@
+message,level
+17/03/29 10:04:57 INFO storage.ShuffleBlockFetcherIterator: Getting 20 non-empty blocks out of 20 blocks,INFO
+"17/03/29 10:03:55 INFO spark.SecurityManager: Changing modify acls to: yarn,curi",INFO
+17/03/29 10:09:29 INFO executor.Executor: Starting executor ID 14 on host mesos-slave-26,INFO
+17/03/29 10:03:16 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1,INFO
+17/03/29 10:02:19 INFO storage.ShuffleBlockFetcherIterator: Getting 0 non-empty blocks out of 20 blocks,INFO
+17/03/29 10:03:24 INFO executor.Executor: Running task 14.0 in stage 5.0 (TID 83),INFO
+"17/03/29 10:05:01 INFO python.PythonRunner: Times: total = 40, boot = -17, init = 57, finish = 0",INFO
+17/03/29 10:03:26 INFO storage.ShuffleBlockFetcherIterator: Getting 20 non-empty blocks out of 20 blocks,INFO
+17/03/29 10:03:22 INFO storage.BlockManager: Found block rdd_2_3 locally,INFO
+17/03/29 10:05:00 INFO broadcast.TorrentBroadcast: Reading broadcast variable 7 took 10 ms,INFO
