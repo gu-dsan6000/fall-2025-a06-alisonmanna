@@ -1,11 +1,11 @@
 message,level
-17/03/29 10:04:57 INFO storage.ShuffleBlockFetcherIterator: Getting 20 non-empty blocks out of 20 blocks,INFO
-"17/03/29 10:03:55 INFO spark.SecurityManager: Changing modify acls to: yarn,curi",INFO
-17/03/29 10:09:29 INFO executor.Executor: Starting executor ID 14 on host mesos-slave-26,INFO
-17/03/29 10:03:16 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1,INFO
-17/03/29 10:02:19 INFO storage.ShuffleBlockFetcherIterator: Getting 0 non-empty blocks out of 20 blocks,INFO
-17/03/29 10:03:24 INFO executor.Executor: Running task 14.0 in stage 5.0 (TID 83),INFO
-"17/03/29 10:05:01 INFO python.PythonRunner: Times: total = 40, boot = -17, init = 57, finish = 0",INFO
-17/03/29 10:03:26 INFO storage.ShuffleBlockFetcherIterator: Getting 20 non-empty blocks out of 20 blocks,INFO
-17/03/29 10:03:22 INFO storage.BlockManager: Found block rdd_2_3 locally,INFO
-17/03/29 10:05:00 INFO broadcast.TorrentBroadcast: Reading broadcast variable 7 took 10 ms,INFO
+"17/06/08 14:14:21 INFO python.PythonRunner: Times: total = 39, boot = 19, init = 19, finish = 1",INFO
+17/06/09 21:56:06 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+17/06/09 15:53:38 INFO executor.Executor: Finished task 16.0 in stage 1398.0 (TID 60573). 2076 bytes result sent to driver,INFO
+17/02/01 17:22:39 INFO storage.ShuffleBlockFetcherIterator: Getting 957 non-empty blocks out of 1890 blocks,INFO
+"17/06/09 09:13:57 INFO python.PythonRunner: Times: total = 39, boot = 0, init = 39, finish = 0",INFO
+"16/07/26 12:09:54 INFO storage.MemoryStore: Block broadcast_176_piece5 stored as bytes in memory (estimated size 3.9 MB, free 63.6 MB)",INFO
+17/03/30 00:00:20 INFO storage.ShuffleBlockFetcherIterator: Getting 302 non-empty blocks out of 396 blocks,INFO
+"17/06/09 11:16:46 INFO spark.CacheManager: Partition rdd_253_30 not found, computing it",INFO
+17/06/09 11:11:22 INFO executor.Executor: Running task 5.0 in stage 501.0 (TID 20447),INFO
+"17/06/10 15:15:48 INFO python.PythonRunner: Times: total = 39, boot = 14, init = 25, finish = 0",INFO
